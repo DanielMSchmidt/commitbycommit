@@ -1,0 +1,36 @@
+{
+  "name": "commitbycommit",
+  "version": "0.0.1",
+  "description": "A small cli that allows you to move from commit to commmit for code presentations",
+  "license": "MIT",
+  "repository": "DanielMSchmidt/commitbycommit",
+  "author": {
+    "name": "Daniel Schmidt",
+    "email": "dschmidt@weluse.de",
+    "url": "danielmschmidt.de"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    ""
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "nodegit": "^0.13.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.1",
+    "xo": "^0.15.0"
+  }
+}
