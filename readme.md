@@ -1,4 +1,4 @@
-# commitbycommit [![Build Status](https://travis-ci.org/DanielMSchmidt/commitbycommit.svg?branch=master)](https://travis-ci.org/DanielMSchmidt/commitbycommit)
+# commitbycommit
 
 > A small cli that allows you to move from commit to commmit for code presentations
 
